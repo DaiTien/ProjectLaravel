@@ -1,0 +1,20 @@
+<script src="/js/website/jquery.min.js"></script>
+<script src="/js/website/bootstrap.min.js"></script>
+<script src="/js/website/bootstrap-datepicker.js"></script>
+<script src="/js/website/jquery.formstyler.min.js"></script>
+<script src="/js/website/jquery.themepunch.plugins.min.js"></script>
+<script src="/js/website/jquery.themepunch.revolution.min.js"></script>
+<script src="/js/website/owl.carousel.min.js"></script>
+<script src="/js/website/slick.min.js"></script>
+<script src="/js/website/isotop.js"></script>
+<script src="/js/website/packery-mode.pkgd.min.js"></script>
+<script src="/js/website/jquery.magnific-popup.min.js"></script>
+<script src="/js/website/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="/js/website/wow.min.js"></script>
+<script src="/js/website/jquery.stellar.js"></script>
+<script src="/js/website/app.js"></script>
+<script src="/js/website/script.js"></script>
+<!-- jquery-validation -->
+<script src="/lib/AdminLTE/plugins/jquery-validation/jquery.validate.min.js"></script>
+<script src="/lib/AdminLTE/plugins/jquery-validation/additional-methods.min.js"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
